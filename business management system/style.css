@@ -1,0 +1,165 @@
+/* CSS Document */
+.header{
+height:300px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+border:#f9f5f5 solid;
+}
+.h1{
+height:250px;
+width:1000px;
+}
+.logo{
+height:250px;
+width:300px;
+float:left;
+}
+.name{
+height:250px;
+width:700px;
+float:right;
+background-color:black;
+}
+.n{
+position:relative;
+top:100px;
+left:250px;
+font-family:"Courier New";
+font-size:36px;
+color:#f9f5f4;
+}
+
+.m{
+height:50px;
+width:1000px;
+background-color:rgb(195, 192, 192);
+}
+.m ul{
+margin:0px;
+padding:0px;
+padding-top: 10px;
+text-align: center;
+}
+.m li{
+display:inline;
+padding:50px;
+}
+.m a{
+text-decoration:none;
+font-size:22px;
+color:black;
+}
+
+.footer{
+height:50px;
+width:1000px;
+margin-left:auto;
+margin-right: auto;
+border:#f9f6f6 solid;
+float:none;
+}
+.copy{
+height:50px;
+width:1000px;
+float:left;
+font-family:"Courier New";
+font-size: 36px;
+text-align:center;
+background-color:black;
+color: white;
+}
+.home{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+background-color:rgb(195, 192, 192);
+border:#f6fdf2 solid;
+}
+.h{
+height:100px;
+width:1000px;
+float:left;
+text-align:center;
+text-decoration:underline;
+}
+.content{
+height:200px;
+width:1000px;
+float:left;
+font-family:Arial;
+font-size:24px;
+color: #030303;
+text-align:justify;
+}
+.content a{
+text-decoration:none;
+font-family:Verdana;
+color:#CC3399;}
+.image{
+height:200px;
+width:1000px;
+float:left;}
+.a{
+border:#060505 dashed;
+border-radius:10px;}
+.about{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+background-image:url(../images/imageiniya1.jpg);
+background-position:center;
+background-size:cover;
+border: #009933 solid;
+}
+.im1{
+float:left;
+}
+.im2{
+float:right;
+}
+.im3{
+float:left;
+}
+.im4{
+float:right;
+}
+.service{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+}
+.contact{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+border:#5e5e5b solid;
+}
+.ad{
+height:250px;
+width:1000px;
+float:left;
+text-align:center;
+background-color:rgb(195, 192, 192);
+}
+.map{
+float:left;}
+.register{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+border: #faf7f7 solid;
+
+}
+.register form{
+padding-left:400px;}
+.register label{
+font-size:24px;
+}
+.register input{
+padding-left:20px;}
